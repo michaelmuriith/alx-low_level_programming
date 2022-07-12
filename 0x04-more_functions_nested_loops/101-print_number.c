@@ -1,4 +1,5 @@
-#include "main.h"
+'[5
+3     #include "main.h"
 /**
 * print_number - that prints an integer
 *@n: print int
