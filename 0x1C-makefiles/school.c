@@ -3,5 +3,5 @@
 
 void school()
 {
-    printf("am in school")
+    printf("am in school");
 }
