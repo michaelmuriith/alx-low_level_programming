@@ -1,11 +1,11 @@
-#include "main.h"
+#include "m.h"
 
 /**
- * print_alx - print the logo of alx
+ * print_school
  *
  * Return: Nothing
  */
-void print_alx(void)
+void print_school(void)
 {
     printf("j#0000000000000000000000000000000000000\n");
     printf("j#000000000000000000@Q**g00000000000000\n");

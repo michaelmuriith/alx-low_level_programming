@@ -1,12 +1,12 @@
-#include "main.h"
+#include "m.h"
+
 /**
  * main - Entry point
  *
- * Return: Always
+ * Return: Always 
  */
 int main(void)
 {
-    print_alx();
-    return 0;
+	print_school();
+	return (EXIT_SUCCESS);
 }
-/* alx */

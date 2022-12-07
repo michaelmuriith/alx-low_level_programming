@@ -4,6 +4,6 @@
 #include <stdlib.h>
 #include <stdio.h>
 
-void print_alx(void);
+void print_school(void);
 
 #endif
